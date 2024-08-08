@@ -2,7 +2,7 @@ The cumulative goal of this project is to advance the research on  Mild Cognitiv
 
 The dataset contains information on patients, including their age, education level, cognitive test scores, gait measurements, wearable device and PIR sensor data acquired from daily monitoring. Subjects belong to 3 cohorts OHSU, VA and MARS. 
 
-To maintain confidentiality, the files have been withheld. However, the notebooks should reflect the substantial progress towards building a model that is sensitive to nuances in patient behavior.
+To maintain confidentiality, the files have been withheld. However, the notebooks reflect the substantial progress towards building a model that is sensitive to nuances in patient behavior.
 
 References:
 
